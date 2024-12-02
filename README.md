@@ -1,4 +1,4 @@
-Resorail
+ResoRail
 ---
 
 ResoRailはResonite内のあらゆる軌道がこの規格を守ることで、対応車両がどこでも走行できる環境を実現する規格です。
